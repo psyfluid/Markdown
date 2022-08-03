@@ -1,8 +1,12 @@
-hello world
+# hello world
+
+## Выделение текста
 
 *Курсив*
 
 **Полужирный**
+
+## Списки
 
 * element 1
 * element 2
